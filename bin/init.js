@@ -219,7 +219,7 @@ const statusAction = async () => {
 // ============================================================================
 
 const program = new Command();
-program.name('antigravity-kit').version('2.1.0');
+program.name('antigravity-kit').version('1.1.0');
 
 program.command('init').alias('update').description('Install/Upgrade .agent kit').option('-f, --force', 'Force overwrite', false).action(initAction);
 program.command('set-master').description('Set current directory as the Master Kit headquarters').action(setMasterAction);

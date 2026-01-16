@@ -30,10 +30,10 @@ This command will:
 
 ## 📖 Documentation
 
-- **[AGENT_GUIDE.md](./AGENT_GUIDE.md)**: Chức năng & Kiến trúc hệ thống (Vietnamese).
-- **[AGENT_GUIDE_EN.md](./AGENT_GUIDE_EN.md)**: System Architecture & Functionality (English).
-- **[AGENT_INSTALL_GUIDE.md](./AGENT_INSTALL_GUIDE.md)**: Hướng dẫn Cài đặt & Phân phối (Vietnamese).
-- **[AGENT_INSTALL_GUIDE_EN.md](./AGENT_INSTALL_GUIDE_EN.md)**: Installation & Distribution Guide (English).
+- **[AGENT_GUIDE.md](https://github.com/trudyan141/my-antigravity-agents-kit/blob/main/AGENT_GUIDE.md)**: Chức năng & Kiến trúc hệ thống (Vietnamese).
+- **[AGENT_GUIDE_EN.md](https://github.com/trudyan141/my-antigravity-agents-kit/blob/main/AGENT_GUIDE_EN.md)**: System Architecture & Functionality (English).
+- **[AGENT_INSTALL_GUIDE.md](https://github.com/trudyan141/my-antigravity-agents-kit/blob/main/AGENT_INSTALL_GUIDE.md)**: Hướng dẫn Cài đặt & Phân phối (Vietnamese).
+- **[AGENT_INSTALL_GUIDE_EN.md](https://github.com/trudyan141/my-antigravity-agents-kit/blob/main/AGENT_INSTALL_GUIDE_EN.md)**: Installation & Distribution Guide (English).
 
 ## 💡 About
 
